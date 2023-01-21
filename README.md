@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm NIKHIL UPADHYAY</h1>
-<h3 align="center">LEARNING MACHINE LEARNING</h3>
+<h3 align="center">LEARNING DSA, MACHINE LEARNING</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uniiik&label=Profile%20views&color=0e75b6&style=flat" alt="uniiik" /> </p>
+
+
+
+<p align="center"> <img src="https://images.unsplash.com/photo-1579809034962-ed8a53703108?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE0fE04alZiTGJUUndzfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Loading......."/> </p>
+
+
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uniiik" alt="uniiik" /></a> </p>
 
