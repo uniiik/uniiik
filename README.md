@@ -1,4 +1,4 @@
-<p>Currently working on my portfolio website..............</P>
+<p>Currently not active on github..............</P>
 
 <h1 align="center">Hi 👋, I'm NIKHIL UPADHYAY</h1>
 <h3 align="center">DSA..</h3>
