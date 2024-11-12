@@ -84,6 +84,9 @@
   <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=ToDoApp&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 -->
+
+![snake gif](https://github.com/uniiik/uniiik/blob/output/github-contribution-grid-snake.svg)
+
 <br><br><br><br><br><br>
 
 <h4 align="center">
