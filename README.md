@@ -31,5 +31,4 @@
 
 
 
-# snake eating github
 ![snake gif](https://github.com/uniiik/uniiik/blob/output/github-contribution-grid-snake.svg)
