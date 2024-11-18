@@ -32,8 +32,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,javascript,css" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nestjs,go,html,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,cpp,typescript,python,javascript,css" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nestjs,html,vscode" />
 
   </a>
 </p>
